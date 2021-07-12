@@ -1,6 +1,0 @@
-C:\Users\seung\Documents\Github\CSharpStudy\Day1\DistanceConverter\bin\Debug\DistanceConverter.exe
-C:\Users\seung\Documents\Github\CSharpStudy\Day1\DistanceConverter\bin\Debug\DistanceConverter.pdb
-C:\Users\seung\Documents\Github\CSharpStudy\Day1\DistanceConverter\obj\Debug\DistanceConverter.csprojAssemblyReference.cache
-C:\Users\seung\Documents\Github\CSharpStudy\Day1\DistanceConverter\obj\Debug\DistanceConverter.csproj.CoreCompileInputs.cache
-C:\Users\seung\Documents\Github\CSharpStudy\Day1\DistanceConverter\obj\Debug\DistanceConverter.exe
-C:\Users\seung\Documents\Github\CSharpStudy\Day1\DistanceConverter\obj\Debug\DistanceConverter.pdb
