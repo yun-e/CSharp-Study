@@ -11,7 +11,6 @@ namespace ValueTypeReferenceType {
             // 매우 작은 객체가 값형이라면 -> 변수의 영역 자체에 객체를 저장함 -> 효율적
             // 매우 작은 객체가 참조형이라면 -> 작은 객체를 위해 두 개의 영역을 할당 -> 비효율적
             
-
             // 값형: int, long, decimal, char, byte, Struct 
             // 참조형:  object, string, Class
             
