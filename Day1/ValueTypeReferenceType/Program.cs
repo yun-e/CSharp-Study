@@ -3,7 +3,13 @@
 namespace ValueTypeReferenceType {
     internal class Program {
         public static void Main(string[] args) {
-            // C#에는 값형(Value Type)와 참조형(Reference Type)이 존재
+            // C#에는 값형(Value Type)와 참조형(Reference Type)이 존재 -> 프로그램 실행 및 메모리 효율성 때문
+
+            // 매우 큰 객체가 값형이라면 -> 변수를 대입할 때마다 객체의 내용을 복사 -> 비효율적
+            // 매우 큰 객체가 참조형이라면 -> 참조(주소)를 복사하면 됨 -> 효율적
+
+            // 매우 작은 객체가 값형이라면 -> 변수의 영역 자체에 객체를 저장함 -> 효율적
+            // 매우 작은 객체가 참조형이라면 -> 작은 객체를 위해 두 개의 영역을 할당 -> 비효율적
 
             // 값형: int, long, decimal, char, byte, Struct 
             // 참조형:  object, string, Class
