@@ -171,7 +171,6 @@ namespace DistanceConverter {
         }
 
         // meter에서 feet로 환산표 출력
-        //
         static void PrintMeterToFeetList(int start, int stop) {
             for (int meter = start; meter <= stop; meter++) {
                 double feet = UnitConverter.FromMeter(meter);
