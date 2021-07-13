@@ -9,7 +9,7 @@ namespace Static {
 
             // 인스턴스를 생성하지 않은 상태에서 WriteLine 메서드를 호출
             // Console은 static 클래스, WriteLine은 static 메서드
-            // MSDN 라이블러에의 Console 클래스에 static으로 지정되어 있음
+            // MSDN 라이브러리의 Console 클래스에 static으로 지정되어 있음
             // public static class Console {}
             Console.WriteLine("오늘은 {0}월{1}일입니다.", today.Month, today.Day);
 
