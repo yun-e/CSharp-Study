@@ -16,14 +16,14 @@
  - 매출 계산 프로그램 (SalesCalculator)
 
 ### Day3. 람다식 & LINQ 기초
- - 람다식 이전
- - 람다식
- - List<T> 클래스와 람다식의 조합
- - LINQ to Objects 의 기초
+ - 람다식 이전 (LambdaExpression)
+ - 람다식 (LambdaExpression)
+ - List<T> 클래스와 람다식의 조합 (LambdaExpression)
+ - LINQ to Objects 의 기초 (LINQ)
 
 ### Day4. 기본 관용구
- - 초기화와 관련된 관용구
- - 판정과 분기에 관한 관용구
+ - 초기화와 관련된 관용구 (CSharpBasicIdioms)
+ - 판정과 분기에 관한 관용구 (CSharpIdiomsOfBranches)
  - 반복에 관한 관용구
  - 조건 연산자, null 합체 연산자를 사용한 관용구
  - 속성에 관한 관용구
