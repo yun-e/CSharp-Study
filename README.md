@@ -4,7 +4,7 @@
 ## Summary
 
 ### Day1. 객체지향 프로그래밍 기초
- - 클래스 (Class)
+ - 클래스 [Class](https://github.com/yun-e/CSharp-Study/tree/master/Day1/Class)
  - 구조체 (Struct)
  - 값형과 참조형 (ValueTypeReferenceType)
  - 정적 멤버와 정적 클래스 (Static)
