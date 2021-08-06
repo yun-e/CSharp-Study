@@ -31,11 +31,11 @@
  - 그 밖의 관용구
 
 ### Day5. 기본 관용구
- - 문자열 비교
- - 문자열 판정
- - 문자열 검색 및 추출
- - 문자열 변환
- - 문자열 연결 및 분할
- - 그 밖의 문자열 처리
+ - 문자열 비교 [(CompareStrings)](https://github.com/yun-e/CSharp-Study/tree/master/Day5/CompareStrings)
+ - 문자열 판정 [(CheckStrings)](https://github.com/yun-e/CSharp-Study/tree/master/Day5/CheckStrings)
+ - 문자열 검색 및 추출 [(IndexAndSubstring)](https://github.com/yun-e/CSharp-Study/tree/master/Day5/IndexAndSubstring)
+ - 문자열 변환 [(ConvertStrings)](https://github.com/yun-e/CSharp-Study/tree/master/Day5/ConvertStrings)
+ - 문자열 연결 및 분할 [(ConcatenateAndSplitStrings)](https://github.com/yun-e/CSharp-Study/tree/master/Day5/ConcatenateAndSplitStrings)
+ - 그 밖의 문자열 처리 [()]()
 
 ### Day6. 배열과 List<T>
