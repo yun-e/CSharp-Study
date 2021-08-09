@@ -39,10 +39,10 @@
  - 그 밖의 문자열 처리 [()]()
 
 ### Chapter6. 배열과 List<T>
- - 배열과 List<T>
+ - 배열과 List<T> [(ArrayAndList)](https://github.com/yun-e/CSharp-Study/tree/master/Chapter6/ArrayAndList)
 
 ### Chapter7. Dictionary<TKey, TValue>
- - Dictionary<TKey, TValue> 기본 및 함수
- - Dictionary를 이용한 프로그램
+ - Dictionary<TKey, TValue> 기본 및 함수 [(FunctionsOfDictionary)](https://github.com/yun-e/CSharp-Study/tree/master/Chapter7/FunctionsOfDictionary)
+ - Dictionary를 이용한 프로그램 [(ExampleProgramUsingDictionary)](https://github.com/yun-e/CSharp-Study/tree/master/Chapter7/ExampleProgramUsingDictionary)
 
 ### Chapter8. 날짜와 시간 처리
