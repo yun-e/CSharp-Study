@@ -1,0 +1,13 @@
+﻿// LINQ Select 메서드
+        // 행마다 어떤 변환 처리를 실행
+        public static void LINQExample6() {
+            var filePath = @"greeting.txt";
+
+            // 텍스트 파일에서 읽어 들인 각 행에 행 번호를 붙임
+            var lines = File.ReadLines(filePath).Select((s, ix) => String.Format("{0,4}: {1}", ix + 1, s)).ToArray();
+
+            foreach (var line in lines) {
+                Console.WriteLine(line);
+            }
+            Console.WriteLine();
+        }
