@@ -51,6 +51,6 @@
 ### Chapter9. 파일 처리
  - 텍스트 파일 입력 [(ReadTextFiles)](https://github.com/yun-e/CSharp-Study/tree/master/Chapter9/ReadTextFiles)
  - 텍스트 파일 출력 [(WriteTextFiles)](https://github.com/yun-e/CSharp-Study/tree/master/Chapter9/WriteTextFiles)
- - 파일 처리
+ - 파일 처리 [(FileHandling)](https://github.com/yun-e/CSharp-Study/tree/master/Chapter9/FileHandling)
  - 디렉터리 처리
  - 경로이름 처리
